@@ -1245,7 +1245,7 @@ footer>div {
 	header .mobile_menu {
 		display: block;
 		width: 8vw;
-		margin: 4vw;
+		margin: 2vw 4vw;
 		position: absolute;
 		right: 0;
 	}
@@ -1579,8 +1579,8 @@ footer>div {
 		position: relative;
 	}
 	.f_bottom .f_bottom_left{
-		width: 80vw;
-		font-size: 2.5vw;
+		width: 75vw;
+		font-size: 3vw;
 		white-space: wrap;
 		text-align: justify;
 		line-height: 4vw;
