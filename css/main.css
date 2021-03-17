@@ -37,7 +37,7 @@ header .header_wrap {
 header .logo {
 	width: 6vw;
 	height: 80px;
-	background-image: url(../img/logo.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/logo.png);
 	background-size: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -64,7 +64,7 @@ header .navi nav>ul>li:hover>a:after {
 	content: "";
 	width: 1.2vw;
 	height: 0.8vw;
-	background-image: url(../img/header/sub_select.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/header/sub_select.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -96,7 +96,7 @@ header.active {
 	background-color: #111514;
 }
 header.active .logo {
-	background-image: url(../img/logo_w.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/logo_w.png);
 }
 header.active nav>ul>li>a {
 	color: #fff;
@@ -142,26 +142,26 @@ section {
 /*section.slide : swiper 사용*/
 .swiper01 {height: 100%;}
 .slide .s1 {
-	background-image: url(../img/main_slide/slide01.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_slide/slide01.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .slide .s2 {
-	background-image: url(../img/main_slide/slide02.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_slide/slide02.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .slide .s3 {
-	background-image: url(../img/main_slide/slide03.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_slide/slide03.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 /***배너 스타일***/
 section.banner {
-	background-image: url(../img/main_banner/banner_bg.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_banner/banner_bg.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -242,10 +242,10 @@ section.banner {
 	background-repeat: no-repeat;
 }
 .b1 .motion .img {
-	background-image: url(../img/main_banner/banner01.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_banner/banner01.png);
 }
 .b2 .motion .img {
-	background-image: url(../img/main_banner/banner02.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_banner/banner02.png);
 }
 .motion .hover {
 	background-color: rgba(19,37,44,0.5);
@@ -1318,13 +1318,13 @@ footer>div {
 		margin-top: 10vw;
 	}
 	.slide .s1 {
-		background-image: url(../img/main_slide/slide01_mobile.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_slide/slide01_mobile.png);
 	}
 	.slide .s2 {
-		background-image: url(../img/main_slide/slide02_mobile.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_slide/slide02_mobile.png);
 	}
 	.slide .s3 {
-		background-image: url(../img/main_slide/slide03_mobile.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/LUSHkorea/img/main_slide/slide03_mobile.png);
 	}
 	.swiper01 .swiper-pagination-bullet {
 	  width: 2vw;
