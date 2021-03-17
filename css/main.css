@@ -59,6 +59,9 @@ header .navi nav>ul {
 header .navi nav>ul>li>a {
 	position: relative;
 	padding: 0 1.3vw;
+	font-size: 1vw;
+	font-weight: 800;
+	padding-bottom: 2.5vw;
 }
 header .navi nav>ul>li:hover>a:after {
 	content: "";
@@ -71,11 +74,6 @@ header .navi nav>ul>li:hover>a:after {
 	bottom: 0;
 	left: 50%;
 	margin-left: -0.6vw;
-}
-header .navi nav>ul>li>a {
-	font-size: 1vw;
-	font-weight: 800;
-	padding-bottom: 2.3vw;
 }
 header .navi nav .sub {
 	padding: 1vw 0;
