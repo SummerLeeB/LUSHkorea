@@ -58,7 +58,7 @@ header .navi nav>ul {
 }
 header .navi nav>ul>li>a {
 	position: relative;
-	padding: 0 1.2vw;
+	padding: 0 1.3vw;
 }
 header .navi nav>ul>li:hover>a:after {
 	content: "";
